@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+Design: https://www.figma.com/file/lZOzov8Mx9WUpSgdeRPI3v/Untitled?type=design&mode=design&t=C052t9yVZDMLpvgy-1  
+→ ACCESS RESTRICTED
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
